@@ -1,2 +1,2 @@
 # Restaurant-Management-System
-Restaurant-Mangement-System
+Restaurant-Mangement-System in core java
